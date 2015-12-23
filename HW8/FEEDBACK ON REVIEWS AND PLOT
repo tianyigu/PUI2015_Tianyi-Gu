@@ -1,0 +1,60 @@
+
+
+please remember to put extensions in your files. you were asked to make markdown files. so .md and comply to markdown syntax (it is important to follow instructions!)
+
+the reviews were ok but a bit superficial 9/10
+
+NOTES ON YOUR PLOT
+===================
+
+too many vivid colors are distracting
+
+agegroup one word in the tiel
+
+thousands is not ameaningful axis labels; use "Population (units of 1,000 peope")
+
+and then why use units of 1000 when your first tick label is 1e5? then one has to think what 1e5*1000 is. use units of millions, and then your first tick is 100 etc
+
+
+NOTES ON YOUR PLOT THE PLOTS YOU REVIEWED
+===========================================
+
+
+docmarionum1
+============
+
+
+
+nice visualization
+
+some labels cannot be read (blue on blue)
+
+the animation is jittery on roll over: add a delay to overcome that
+
+the animation is also unnecessary since seecting a bubble does not d anything. teh circle around it would be justified if info appeared, to clarify what the info refers to
+
+the zoom is also unnecessary as it does not reveal any details, just hides the details about the rest of the data
+
+
+
+CUSP2015BO
+============
+
+good plot, good choice of BW and mean/median in read that highlights it. 
+
+consider using a larger unit on the y axis (miles?)
+
+
+yuqiaocen
+============
+
+the plot is very busy. 
+
+no point in starting at the negative range: remove the <0 space
+
+two legends for the regression lines and the datapoints may be better: clearer less overwhelming
+
+association of color to rage triggers preconceptions. since you have few categories shapes may be a better choice.
+
+
+
